@@ -90,6 +90,7 @@ Virtual Network: Provides controlled network connectivity for communication and 
 Isolation: The virtual environment helps keep testing activities separate from the host system and unauthorized external systems.
 This architecture provides a controlled and safe foundation for future cybersecurity exercises.
 
+![Lab Architecture](lab architecture-proj1.jpeg)
 
 
 Lab Configuration
@@ -123,12 +124,15 @@ Step 2 — Install Oracle VirtualBox
 Oracle VirtualBox was installed on the host computer. VirtualBox was used as the hypervisor for creating, configuring, and managing the Kali Linux virtual machine.
 
 Step 3 — Create the NAT Network
+​![Create the NAT network](2.jpeg)
+
 
 A dedicated NAT Network was configured in VirtualBox to provide controlled communication between virtual machines while maintaining Internet connectivity.
 
 The required network settings were configured according to the laboratory requirements.
 
 Step 4 — Import Kali Linux
+![Import Kali Linux](3.jpeg)
 
 The Kali Linux virtual machine was obtained from the official Kali Linux source and imported into Oracle VirtualBox.
 
