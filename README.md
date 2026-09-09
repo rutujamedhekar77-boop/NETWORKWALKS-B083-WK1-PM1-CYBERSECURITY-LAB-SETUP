@@ -145,6 +145,7 @@ The Kali Linux virtual machine's network adapter was configured to connect to th
 This configuration allows the virtual machine to communicate within the controlled laboratory network while providing the required external connectivity.
 
 Step 6 — Configure Kali Linux Network Settings
+![Configure the Kali Linux Network settings](5.jpeg)
 
 After starting Kali Linux, the network interface and IPv4 configuration were checked.
 
